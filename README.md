@@ -1,6 +1,6 @@
 # Desmos Projects
 Collection of projects I have made in desmos
-## Maze generator
+## Maze Generator
 Visualizes a reccursive backtracking maze generation algorithm.
 
 [Graph](https://www.desmos.com/calculator/cjzwyxtwxs)
@@ -10,7 +10,7 @@ Recreation of [picobot](https://www.cs.hmc.edu/picobot/). This version works the
 
 [Graph](https://www.desmos.com/calculator/l0e7uefiqo)
 
-## Mandlebrot set viewer
+## Mandlebrot Set Viewer
 Mandlebrot set explorer in desmos. At the bottom there are some basic controls for zooming in and out. Additionally in the settings folder you can adjust the image quality.
 
 [Graph](https://www.desmos.com/calculator/vtttfxowjn)
